@@ -1,0 +1,99 @@
+"formal_name","metric","num_overlap"
+"Subcutaneous adipose ","eGenes",3391
+"Visceral omentum","eGenes",2835
+"Adrenal gland","eGenes",1966
+"Aorta","eGenes",2890
+"Coronary artery","eGenes",1617
+"Tibial artery","eGenes",3334
+"Amygdala","eGenes",982
+"Anterior cingulate cortex ","eGenes",1350
+"Caudate ","eGenes",1936
+"Cerebellar hemisphere","eGenes",2285
+"Cerebellum","eGenes",2544
+"Cortex","eGenes",2022
+"Frontal cortex ","eGenes",1677
+"Hippocampus","eGenes",1375
+"Hypothalamus","eGenes",1326
+"Nucleus accumbens ","eGenes",1853
+"Putamen ","eGenes",1659
+"Spinal cord ","eGenes",1139
+"Substantia nigra","eGenes",895
+"Breast mammary tissue","eGenes",2503
+"Cultured fibroblasts","eGenes",3367
+"EBV-transformed lymphocytes","eGenes",1339
+"Sigmoid colon","eGenes",2451
+"Transverse colon","eGenes",2733
+"Gastroesophageal junction","eGenes",2436
+"Esophagus mucosa","eGenes",3393
+"Esophagus muscularis","eGenes",3161
+"Atrial appendage","eGenes",2519
+"Left ventricle","eGenes",2322
+"Kidney cortex","eGenes",451
+"Liver","eGenes",1465
+"Lung","eGenes",3113
+"Minor salivary gland","eGenes",1435
+"Muscle skeletal","eGenes",3090
+"Nerve tibial","eGenes",3660
+"Ovary","eGenes",1452
+"Pancreas","eGenes",2358
+"Pituitary","eGenes",2132
+"Prostate","eGenes",1768
+"Not sun-exposed skin ","eGenes",3443
+"Sun-exposed skin ","eGenes",3669
+"Small intestine terminal ileum","eGenes",1679
+"Spleen","eGenes",2487
+"Stomach","eGenes",2191
+"Testis","eGenes",3247
+"Thyroid","eGenes",3711
+"Uterus","eGenes",1017
+"Vagina","eGenes",1078
+"Whole blood","eGenes",2851
+"Subcutaneous adipose ","eVariant-eGene pairs",89243
+"Visceral omentum","eVariant-eGene pairs",81394
+"Adrenal gland","eVariant-eGene pairs",59479
+"Aorta","eVariant-eGene pairs",81168
+"Coronary artery","eVariant-eGene pairs",55461
+"Tibial artery","eVariant-eGene pairs",89606
+"Amygdala","eVariant-eGene pairs",35054
+"Anterior cingulate cortex ","eVariant-eGene pairs",38627
+"Caudate ","eVariant-eGene pairs",49490
+"Cerebellar hemisphere","eVariant-eGene pairs",57125
+"Cerebellum","eVariant-eGene pairs",63919
+"Cortex","eVariant-eGene pairs",53174
+"Frontal cortex ","eVariant-eGene pairs",44329
+"Hippocampus","eVariant-eGene pairs",40749
+"Hypothalamus","eVariant-eGene pairs",42141
+"Nucleus accumbens ","eVariant-eGene pairs",48681
+"Putamen ","eVariant-eGene pairs",44253
+"Spinal cord ","eVariant-eGene pairs",36053
+"Substantia nigra","eVariant-eGene pairs",30284
+"Breast mammary tissue","eVariant-eGene pairs",76670
+"Cultured fibroblasts","eVariant-eGene pairs",76709
+"EBV-transformed lymphocytes","eVariant-eGene pairs",39221
+"Sigmoid colon","eVariant-eGene pairs",69929
+"Transverse colon","eVariant-eGene pairs",80928
+"Gastroesophageal junction","eVariant-eGene pairs",71872
+"Esophagus mucosa","eVariant-eGene pairs",98869
+"Esophagus muscularis","eVariant-eGene pairs",84187
+"Atrial appendage","eVariant-eGene pairs",71229
+"Left ventricle","eVariant-eGene pairs",67259
+"Kidney cortex","eVariant-eGene pairs",19589
+"Liver","eVariant-eGene pairs",47690
+"Lung","eVariant-eGene pairs",92079
+"Minor salivary gland","eVariant-eGene pairs",50660
+"Muscle skeletal","eVariant-eGene pairs",78308
+"Nerve tibial","eVariant-eGene pairs",97158
+"Ovary","eVariant-eGene pairs",46034
+"Pancreas","eVariant-eGene pairs",72662
+"Pituitary","eVariant-eGene pairs",65829
+"Prostate","eVariant-eGene pairs",62410
+"Not sun-exposed skin ","eVariant-eGene pairs",96070
+"Sun-exposed skin ","eVariant-eGene pairs",98954
+"Small intestine terminal ileum","eVariant-eGene pairs",54076
+"Spleen","eVariant-eGene pairs",66997
+"Stomach","eVariant-eGene pairs",70403
+"Testis","eVariant-eGene pairs",73212
+"Thyroid","eVariant-eGene pairs",102760
+"Uterus","eVariant-eGene pairs",38138
+"Vagina","eVariant-eGene pairs",40893
+"Whole blood","eVariant-eGene pairs",76033
